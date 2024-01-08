@@ -1,4 +1,4 @@
-const site_prefix = "https://sc.tisato.live/#/"
+const site_prefix = "https://sc.ka5umi.eu.org/#/"
 
 interface Env {
     SCACHE: KVNamespace;

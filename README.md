@@ -2,7 +2,7 @@
 
 This is a simple shortcut service based on cloudflare pages、functions and KV
 
-Example site: https://sc.tisato.live
+Example site: https://sc.ka5umi.eu.org
 
 ![](./img/show.png)
 
